@@ -223,4 +223,4 @@ This repository serves as the official landing page for ExpressVPN. The software
 **Get the most recent version of ExpressVPN today!**
 
 ---
-**Last updated:** 2026-09-24 04:05:47 UTC
+**Last updated:** 2026-09-24 09:47:04 UTC
